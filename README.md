@@ -1,35 +1,31 @@
-<img width="1672" height="941" alt="capa png" src="https://github.com/user-attachments/assets/3990785b-e103-4ea8-a6a9-4f87e4872fa6" /><div align="center">
-  <img src="./capa.png" alt="" width="100%">
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/3990785b-e103-4ea8-a6a9-4f87e4872fa6" alt="Capa" width="100%">
+  
+  # Olá! Eu sou Felipe 👋
+  
+  🚀 **Estudante de Análise e Desenvolvimento de Sistemas (ADS)**  
+  💻 **Desenvolvedor em Constante Evolução** | Python & Web  
 </div>
 
-#  Olá! Eu sou Felipe
+<br>
 
- Estudante de Análise e Desenvolvimento de Sistemas  
- Desenvolvedor em constante aprendizado  
- Aprendendo Python  
- Explorando desenvolvimento Web e novas tecnologias
+## 📌 Sobre mim
 
----
+Sou estudante de **Análise e Desenvolvimento de Sistemas** focado em transformar conceitos teóricos em projetos práticos. 
 
-##  Sobre mim
-
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e estou construindo minha jornada na área de tecnologia.
-
-Atualmente estou focado em aprender programação, desenvolver projetos próprios e evoluir minhas habilidades todos os dias.
-
-Meu objetivo é transformar conhecimento em projetos reais e construir uma carreira sólida na tecnologia.
+- 🎓 Graduando em ADS.
+- 💡 Apaixonado por resolução de problemas, automação e desenvolvimento de software.
+- 🎯 **Objetivo:** Construir uma base técnica sólida e colaborar em projetos reais de tecnologia.
 
 ---
 
-
+## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -37,44 +33,39 @@ Meu objetivo é transformar conhecimento em projetos reais e construir uma carre
 
 ---
 
-##  Atualmente estudando
+## 📚 Atualmente Focado Em
 
--  Python
--  Lógica de programação
--  Desenvolvimento Web
--  Git e GitHub
--  Banco de dados
--  Desenvolvimento de projetos
+- 🐍 **Linguagem:** Python (Estruturas de Dados, Algoritmos e Automações)
+- 🌐 **Desenvolvimento Web:** HTML5, CSS3 e Lógica Frontend
+- 🗄️ **Banco de Dados:** Conceitos de SQL e Modelagem de Dados
+- 🛠️ **Boas Práticas:** Versionamento com Git/GitHub e Lógica de Programação
 
 ---
 
-##  Projetos
+## 🚀 Projetos em Destaque
 
-🔹 **Projetos em Python**  
-Projetos desenvolvidos durante meus estudos.
+> *Substitua os links abaixo pelos nomes/links dos seus repositórios reais conforme for criando!*
 
-🔹 **Projetos Web**  
-Aplicações e páginas para praticar desenvolvimento Web.
-
-🔹 **Projetos acadêmicos**  
-Projetos desenvolvidos durante minha graduação em ADS.
+- 🐍 **[Nome do Projeto Python](./):** Breve descrição de uma linha sobre o que o projeto faz.
+- 🌐 **[Nome do Projeto Web](./):** Aplicação ou página desenvolvida para praticar HTML/CSS.
+- 🎓 **[Projeto Acadêmico ADS](./):** Trabalho ou atividade prática relevante desenvolvida na faculdade.
 
 ---
 
----
+## 📊 Estatísticas no GitHub
 
-##  Meu objetivo
-
-> Aprender todos os dias, criar projetos e evoluir como desenvolvedor.
-
----
-
-##  Contato
-
- Email: felip_feeh.2016@hotmail.com
-
- LinkedIn: 
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=eaefeeh&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eaefeeh&layout=compact&theme=dark" />
+</div>
 
 ---
 
- 
+## 📬 Vamos nos conectar?
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felip_feeh.2016@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-da-silva-carlos-375878230?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+
+</div>
