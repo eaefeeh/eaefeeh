@@ -49,16 +49,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** focado em transforma
 - 🐍 **[Nome do Projeto Python](./):** Breve descrição de uma linha sobre o que o projeto faz.
 - 🌐 **[Nome do Projeto Web](./):** Aplicação ou página desenvolvida para praticar HTML/CSS.
 - 🎓 **[Projeto Acadêmico ADS](./):** Trabalho ou atividade prática relevante desenvolvida na faculdade.
-
----
-
-## 📊 Estatísticas no GitHub
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=eaefeeh&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eaefeeh&layout=compact&theme=dark" />
-</div>
-
 ---
 
 ## 📬 Vamos nos conectar?
