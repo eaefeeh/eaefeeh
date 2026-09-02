@@ -77,5 +77,4 @@ Projetos desenvolvidos durante minha graduação em ADS.
 
 ---
 
- Se algum projeto meu te ajudar, deixe uma estrela!<img width="1672" height="941" alt="capa png" src="https://github.com/user-attachments/assets/56acbe83-1ba5-4e00-9d66-b009b3ae2b82" />
-<img width="1672" height="941" alt="capa png" src="https://github.com/user-attachments/assets/4a976411-3285-4e09-9c55-d792aed5d24a" />
+ 
