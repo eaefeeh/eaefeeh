@@ -2,16 +2,16 @@
   <img src="./capa.png" alt="" width="100%">
 </div>
 
-# 👋 Olá! Eu sou Felipe
+#  Olá! Eu sou Felipe
 
-💻 Estudante de Análise e Desenvolvimento de Sistemas  
-🚀 Desenvolvedor em constante aprendizado  
-🐍 Aprendendo Python  
-🌐 Explorando desenvolvimento Web e novas tecnologias
+ Estudante de Análise e Desenvolvimento de Sistemas  
+ Desenvolvedor em constante aprendizado  
+ Aprendendo Python  
+ Explorando desenvolvimento Web e novas tecnologias
 
 ---
 
-## 🧑‍💻 Sobre mim
+##  Sobre mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e estou construindo minha jornada na área de tecnologia.
 
@@ -21,7 +21,7 @@ Meu objetivo é transformar conhecimento em projetos reais e construir uma carre
 
 ---
 
-## 🚀 Tecnologias e conhecimentos
+
 
 <div align="center">
 
@@ -37,18 +37,18 @@ Meu objetivo é transformar conhecimento em projetos reais e construir uma carre
 
 ---
 
-## 📚 Atualmente estudando
+##  Atualmente estudando
 
-- 🐍 Python
-- 💻 Lógica de programação
-- 🌐 Desenvolvimento Web
-- 🔧 Git e GitHub
-- 🗄️ Banco de dados
-- 🚀 Desenvolvimento de projetos
+-  Python
+-  Lógica de programação
+-  Desenvolvimento Web
+-  Git e GitHub
+-  Banco de dados
+-  Desenvolvimento de projetos
 
 ---
 
-## 📌 Projetos
+##  Projetos
 
 🔹 **Projetos em Python**  
 Projetos desenvolvidos durante meus estudos.
@@ -63,19 +63,19 @@ Projetos desenvolvidos durante minha graduação em ADS.
 
 ---
 
-## 🎯 Meu objetivo
+##  Meu objetivo
 
 > Aprender todos os dias, criar projetos e evoluir como desenvolvedor.
 
 ---
 
-## 📫 Contato
+##  Contato
 
-📧 Email: felip_feeh.2016@hotmail.com
+ Email: felip_feeh.2016@hotmail.com
 
-💼 LinkedIn: 
+ LinkedIn: 
 
 ---
 
-⭐ Se algum projeto meu te ajudar, deixe uma estrela!<img width="1672" height="941" alt="capa png" src="https://github.com/user-attachments/assets/56acbe83-1ba5-4e00-9d66-b009b3ae2b82" />
+ Se algum projeto meu te ajudar, deixe uma estrela!<img width="1672" height="941" alt="capa png" src="https://github.com/user-attachments/assets/56acbe83-1ba5-4e00-9d66-b009b3ae2b82" />
 <img width="1672" height="941" alt="capa png" src="https://github.com/user-attachments/assets/4a976411-3285-4e09-9c55-d792aed5d24a" />
